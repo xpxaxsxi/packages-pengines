@@ -1,4 +1,3 @@
-:- encoding(utf8).
 /*  Part of SWI-Prolog
 
     Author:        Torbjörn Lager and Jan Wielemaker
